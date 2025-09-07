@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "Name": "Shah Rukh Khan",
+      "Parentname": "Meer Taj Mohammed Khan",
+      "Age": 59,
+      "Sex": "Male",
+      "Country": "India",
+      "Industry": "Bollywood Actor",
+      "Best": "Dilwale",
+      "id": "1",
+      "City": "India"
+    },
+    {
+      "id": "3",
+      "Name": "Virat Kohli",
+      "Parentname": "Saroj Kohli",
+      "Age": "36",
+      "Sex": "Male",
+      "Country": "India",
+      "Industry": "Indian Cricketer",
+      "Best": "765 runs & POTT in 2023 ODI world cup",
+      "City": "India"
+    },
+    {
+      "id": "9796",
+      "Name": "Vidya Balan",
+      "Parentname": "P. R Balan",
+      "Age": "46",
+      "Sex": "Female",
+      "Country": "India",
+      "Industry": "Bollywood Actress",
+      "Best": "Dirty Picture",
+      "City": "Kerala, India"
+    },
+    {
+      "id": "515f",
+      "Name": "Maria Sharapova",
+      "Parentname": "Yuri Sharapov",
+      "Age": "38",
+      "Sex": "Female",
+      "Country": "Russia",
+      "Industry": "International Tennis Player",
+      "Best": "Won all four major tournaments",
+      "City": "Russia"
+    }
+  ]
+}
