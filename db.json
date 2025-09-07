@@ -1,48 +1,68 @@
 {
   "users": [
-    {
-      "Name": "Shah Rukh Khan",
-      "PSname": "Meer Taj Mohammed Khan",
-      "Age": 59,
-      "Sex": "Male",
-      "Country": "India",
-      "Industry": "Bollywood Actor",
-      "Best": "Dilwale",
-      "id": "1",
-      "City": "India"
-    },
-    {
-      "id": "3",
-      "Name": "Virat Kohli",
-      "PSname": "Saroj Kohli",
-      "Age": "36",
-      "Sex": "Male",
-      "Country": "India",
-      "Industry": "Indian Cricketer",
-      "Best": "765 runs & POTT in 2023 ODI world cup",
-      "City": "India"
-    },
-    {
-      "id": "9796",
-      "Name": "Vidya Balan",
-      "PSname": "P. R Balan",
-      "Age": "46",
-      "Sex": "Female",
-      "Country": "India",
-      "Industry": "Bollywood Actress",
-      "Best": "Dirty Picture",
-      "City": "Kerala, India"
-    },
-    {
-      "id": "515f",
-      "Name": "Maria Sharapova",
-      "PSname": "Yuri Sharapov",
-      "Age": "38",
-      "Sex": "Female",
-      "Country": "Russia",
-      "Industry": "International Tennis Player",
-      "Best": "Won all four major tournaments",
-      "City": "Russia"
-    }
-  ]
+  {
+    "Name": "Shah Rukh Khan",
+    "PSname": "Meer Taj Mohammed Khan",
+    "Age": 59,
+    "Sex": "Male",
+    "Country": "India",
+    "Industry": "Bollywood Actor",
+    "Best": "Dilwale",
+    "id": "1",
+    "City": "India"
+  },
+  {
+    "id": "3",
+    "Name": "Virat Kohli",
+    "PSname": "Anushka Sharma",
+    "Age": "36",
+    "Sex": "Male",
+    "Country": "India",
+    "Industry": "Indian Cricketer",
+    "Best": "765 runs & POTT in 2023 ODI world cup",
+    "City": "India"
+  },
+  {
+    "id": "9796",
+    "Name": "Vidya Balan",
+    "PSname": "P. R Balan",
+    "Age": "46",
+    "Sex": "Female",
+    "Country": "India",
+    "Industry": "Bollywood Actress",
+    "Best": "Dirty Picture",
+    "City": "Kerala, India"
+  },
+  {
+    "id": "515f",
+    "Name": "Maria Sharapova",
+    "PSname": "Yuri Sharapov",
+    "Age": "38",
+    "Sex": "Female",
+    "Country": "Russia",
+    "Industry": "International Tennis Player",
+    "Best": "Won all four major tournaments",
+    "City": "Russia"
+  },
+  {
+    "Name": "Johny Sins",
+    "PSname": "Kissa Sins",
+    "Age": "46",
+    "Sex": "Male",
+    "City": "USA",
+    "Industry": "Porn Actor",
+    "Best": "Multi-talented",
+    "id": "21T1oVo"
+  },
+  {
+    "Name": "Giorgio Armani",
+    "PSname": "Ugo Armani",
+    "Age": "91",
+    "Sex": "Male",
+    "City": "Italy",
+    "Industry": "Fashion Designer",
+    "Best": "Founder of Armani luxury houses",
+    "id": "M7v337s"
+  }
+]
 }
